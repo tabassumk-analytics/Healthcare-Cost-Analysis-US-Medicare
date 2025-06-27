@@ -39,11 +39,11 @@ This visualization emphasizes diverse types of high-cost care, not just a few DR
 
 **Visualization**
 
-![Top 10 DRG Codes](top_10_drg_codes.png)
-![Top 10 Costly DRGs](top_10_costly_drg_codes.png)
-![Outlier Boxplot - Avg Medicare Payment](avg_med_payment_outliers.png)
-![Top 10 Outlier DRGs](avg_mdcr_outlier_top10.png)
-![Trend Insight - Avg Medicare Payment by DRG](avg_payment_trend_drg.png)
+![Top 10 DRG Codes](charts/top_10_drg_codes.png)
+![Top 10 Costly DRGs](charts/top_10_costly_drg_codes.png)
+![Outlier Boxplot - Avg Medicare Payment](charts/avg_med_payment_outliers.png)
+![Top 10 Outlier DRGs](charts/avg_mdcr_outlier_top10.png)
+![Trend Insight - Avg Medicare Payment by DRG](charts/avg_payment_trend_drg.png)
 
 **Key Business Insights**
 

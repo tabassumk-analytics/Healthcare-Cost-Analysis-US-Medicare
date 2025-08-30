@@ -18,7 +18,6 @@ DRG codes like 177 (Respiratory infections) and 871/872 (Septicemia) dominate th
 These diagnoses are consistently common and drive much of Medicare's hospital volume.
 
 2. Top 10 Most Expensive DRGs
-
 Calculated the average Medicare payment by DRG and selected the top 10 and the results are-
 DRG 18 (CAR-T cell therapy) and DRG 1 (Heart transplants) have the highest average reimbursements, reflecting their complex nature and cost.
 All entries here involve highly specialized or life-saving procedures.
